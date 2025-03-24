@@ -1,9 +1,9 @@
 # CARLA Simulation with YOLOv8 for Autonomous Driving
 
-![Multi-model_Detection](Results/img3.png)
+![Multi-model_Detection](images/img3.png)
 
 ## Project Overview
-This project integrates the CARLA simulator with four YOLOv8 nano models to enable object detection, motion planning, and decision-making for autonomous driving. The models used in this simulation are trained to detect various objects in the environment, ensuring real-time perception and response to traffic scenarios.
+This project integrates the CARLA simulator with four YOLOv8 nano models to enable object detection, motion planning, and decision-making for autonomous driving. The models used in this simulation are trained to detect various objects in the environment and calculates it distances for motion planning and decision making, ensuring real-time perception and response to traffic scenarios.
 
 ### Key Features:
 - **YOLOv8 Integration**: Uses four trained YOLOv8 nano models for real-time object detection.
@@ -80,15 +80,15 @@ This project integrates the CARLA simulator with four YOLOv8 nano models to enab
 ## Results
 
 
-![Results](Results/img4.png)
+![Results](images/img4.png)
 
 ##
 
-![Results](Results/img2.png)
+![Results](images/img2.png)
 
 ##
 
-![Results](Results/img1.png)
+![Results](images/img1.png)
 
 ## Future Work
 - Integration of additional sensors like LiDAR.
