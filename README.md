@@ -101,6 +101,8 @@ This project integrates the CARLA simulator with four YOLOv8 nano models to enab
 
 ---
 
-**Author:** Michael Chukwuemeka Micah  
-For inquiries, contact: makoflash05@gmail.com
+## **Author:** Michael Chukwuemeka Micah  
+For inquiries and full code
 
+contact: makoflash05@gmail.com
+LinkedIn: [Micahmichael](https://www.linkedin.com/in/michael-micah003/)
